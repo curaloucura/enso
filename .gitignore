@@ -1,0 +1,10 @@
+src/platform/osx/cairo/cairo-1.8.10-dist
+src/platform/osx/cairo/pixman-0.18.0-dist
+src/platform/osx/key_utils.os
+src/platform/osx/key_utils.so
+src/platform/osx/main
+src/platform/osx/main.o
+src/platform/osx/pycairo/*.os
+src/platform/osx/pycairo/*.so
+*.pyc
+*.pyo
